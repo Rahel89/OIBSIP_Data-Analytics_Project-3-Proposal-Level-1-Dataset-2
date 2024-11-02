@@ -1,6 +1,6 @@
-Title: Data cleaning for Trending YouTube Video Statistics
+## Title: Data cleaning for Trending YouTube Video Statistics
 
-Description:
+## Description:
 
 This project focuses on the data cleaning process applied to a dataset containing daily trending YouTube videos across the US, GB, DE, CA, and FR regions.
 data cleaning is crucial for ensuring the accuracy and reliability of analysis.
