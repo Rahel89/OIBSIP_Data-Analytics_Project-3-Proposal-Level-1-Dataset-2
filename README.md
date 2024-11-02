@@ -15,6 +15,4 @@ Key features include:
 
 The dataset used in this project is sourced from Kaggle.
 
-Link:
-
 [Link](https://www.kaggle.com/datasets/datasnaek/youtube-new)
