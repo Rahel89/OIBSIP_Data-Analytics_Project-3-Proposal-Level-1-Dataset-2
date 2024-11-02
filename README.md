@@ -12,3 +12,9 @@ Key features include:
 3. Ensuring data integrity
 4. Standardization
 5. Identifying and handling outliers
+
+The dataset used in this project is sourced from Kaggle.
+
+Link:
+
+[Link](https://www.kaggle.com/datasets/datasnaek/youtube-new)
